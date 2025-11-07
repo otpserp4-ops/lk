@@ -6,12 +6,12 @@ h6 {
 
 a {
     outline: 0;
-    color: #FFD700
+    color: #FF4500
 }
 
 a:focus,
 a:hover {
-    color: #FFD700;
+    color: #FF4500;
     text-decoration: none
 }
 
@@ -28,7 +28,7 @@ p {
 }
 
 .nav-tabs>li>a:hover {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -43,7 +43,7 @@ p {
 }
 
 .login-panel .forgot-password-link:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .bonus-slider-modal .modal-header .close {
@@ -56,7 +56,7 @@ p {
 }
 
 .bonus-slider-modal .activation-button {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -74,7 +74,7 @@ p {
 }
 
 .announcement-container {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #070d2f
 }
 
@@ -106,7 +106,7 @@ p {
 .popular-games .nav-tabs>li.active>a,
 .popular-games .nav-tabs>li.active>a:hover .popular-games .nav-tabs>li.active>a:focus,
 .popular-games .nav-tabs>li>a:hover {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .popular-games .tab-pane {
@@ -197,7 +197,7 @@ p {
 }
 
 .confirmation-message-modal .confirm-btn:hover {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff;
     border: 0
 }
@@ -207,7 +207,7 @@ p {
 }
 
 .profile-container .mobile-info-button:hover {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -237,7 +237,7 @@ p {
 }
 
 .topbar-left-section .topbar-item a:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .topbar-left-section .topbar-item .live-chat {
@@ -246,12 +246,12 @@ p {
 }
 
 .topbar-left-section .topbar-item .live-chat:hover {
-    background: #FFD700
+    background: #FF4500
 }
 
 .top-menu>li:hover,
 .top-menu>li[data-active="true"] {
-    color: #FFD700
+    color: #FF4500
 }
 
 .copyright {
@@ -269,7 +269,7 @@ p {
 }
 
 .play-now {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff;
     border-color: #76a0ff
 }
@@ -277,7 +277,7 @@ p {
 .play-now:hover {
     background: #a34afb;
     color: #fff;
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .free-play {
@@ -348,7 +348,7 @@ p {
 
 .user-info .dropdown-menu>li>a:focus,
 .user-info .dropdown-menu>li>a:hover {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -465,7 +465,7 @@ ul.email-right-header li a {
 }
 
 .withdrawal-container .total-balance {
-    color: #FFD700;
+    color: #FF4500;
     border-color: #ccc
 }
 
@@ -478,7 +478,7 @@ ul.email-right-header li a {
 
 .standard-side-menu a[data-active="true"],
 .standard-side-menu a:hover {
-    color: #FFD700;
+    color: #FF4500;
     background-color: #1e274b
 }
 
@@ -543,7 +543,7 @@ ul.email-right-header li a {
 }
 
 .standard-reporting-control-group .btn-primary {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -570,7 +570,7 @@ ul.email-right-header li a {
     background-color: #0a1849;
     color: #dad9d9;
     box-shadow: 0 0 15px rgba(0, 0, 0, .2);
-    border-top: 2px solid #FFD700
+    border-top: 2px solid #FF4500
 }
 
 .bonus-controls-field .bonus-control-button {
@@ -580,18 +580,18 @@ ul.email-right-header li a {
 
 .bonus-controls-field .bonus-amount {
     background-color: #0e0e0e;
-    color: #FFD700
+    color: #FF4500
 }
 
 .bonus-range .bubble {
     color: #fff;
-    border-color: #FFD700;
+    border-color: #FF4500;
     background: #030a2e
 }
 
 .bonus-range .bubble::before {
     border-color: rgba(233, 154, 1, 0);
-    border-top-color: #FFD700
+    border-top-color: #FF4500
 }
 
 .bonus-range .bubble::after {
@@ -618,7 +618,7 @@ ul.email-right-header li a {
 }
 
 .claim-info-modal h4 {
-    color: #FFD700
+    color: #FF4500
 }
 
 .standard-form-note.claim-note span,
@@ -627,11 +627,11 @@ ul.email-right-header li a {
 }
 
 .claim-item-type>div {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .claim-item-type .expiration-countdown [data-section] {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .claim-item-type .expiration-countdown [data-section]::before {
@@ -640,7 +640,7 @@ ul.email-right-header li a {
 
 .claim-item-container .claim-item {
     background: #f5f5f5;
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .claim-item-container .claim-item .claim-title,
@@ -659,7 +659,7 @@ ul.email-right-header li a {
 .claim-item .cancellation-button,
 .claim-item .expiration-button {
     color: #fff;
-    background: #FFD700
+    background: #FF4500
 }
 
 .claim-item .claim-button:hover,
@@ -687,7 +687,7 @@ ul.email-right-header li a {
 }
 
 .contact-us-list li a {
-    color: #FFD700
+    color: #FF4500
 }
 
 .deposit-container .bank-info {
@@ -705,8 +705,8 @@ ul.email-right-header li a {
 
 .banner .carousel-indicators .active,
 .banner .carousel-indicators .slick-active {
-    background: #FFD700;
-    border-color: #FFD700
+    background: #FF4500;
+    border-color: #FF4500
 }
 
 .home-info-container,
@@ -716,7 +716,7 @@ ul.email-right-header li a {
 }
 
 .lottery-result-container {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -725,7 +725,7 @@ ul.email-right-header li a {
 }
 
 .lottery-result-container .lottery-result-title {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -821,8 +821,8 @@ ul.email-right-header li.active a {
 
 .messaging-side-menu [data-active="true"] a,
 .messaging-side-menu a:hover {
-    color: #FFD700;
-    border-bottom-color: #FFD700
+    color: #FF4500;
+    border-bottom-color: #FF4500
 }
 
 .replied-message {
@@ -854,7 +854,7 @@ ul.email-right-header li.active a {
 .mobile-app-container .nav-tabs>li.active>a,
 .mobile-app-container .nav-tabs>li.active>a:hover,
 .mobile-app-container .nav-tabs>li.active>a:focus {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -895,7 +895,7 @@ ul.email-right-header li.active a {
 
 .promotions-container .standard-side-menu a[data-active="true"],
 .promotions-container .standard-side-menu a:hover {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -908,7 +908,7 @@ ul.email-right-header li.active a {
 }
 
 .promotion-item .click-for-get-promo-button {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -925,7 +925,7 @@ ul.email-right-header li.active a {
 }
 
 .promotion-item-details .click-for-get-promo-button {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -956,7 +956,7 @@ ul.email-right-header li.active a {
 }
 
 .register-done-container>h2 span {
-    color: #FFD700
+    color: #FF4500
 }
 
 .register-done-container>h3 span {
@@ -968,19 +968,19 @@ ul.email-right-header li.active a {
 }
 
 .register-done-container .btn-deposit {
-    background: #FFD700;
-    background: linear-gradient(to top, #000000 0%, #FFD700 100%);
+    background: #FF4500;
+    background: linear-gradient(to top, #000000 0%, #FF4500 100%);
     box-shadow: rgba(0, 0, 0, .2) 0 0 20px 5px
 }
 
 .register-done-container .btn-deposit:hover {
-    background: linear-gradient(to bottom, #FFD700 0%, #000000 100%)
+    background: linear-gradient(to bottom, #FF4500 0%, #000000 100%)
 }
 
 .register-done-container .buttons-container-register-done .btn {
-    background: linear-gradient(to bottom, #FFD700 0%, #FFD700 100%);
+    background: linear-gradient(to bottom, #FF4500 0%, #FF4500 100%);
     color: #fff;
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .register-done-container .buttons-container-register-done .btn:hover {
@@ -989,17 +989,17 @@ ul.email-right-header li.active a {
 }
 
 .register-done-container .register-verification-done {
-    border-color: #FFD700;
+    border-color: #FF4500;
     background: #263f95
 }
 
 .register-done-container .register-verification-done .info {
-    color: #FFD700;
-    border-color: #FFD700
+    color: #FF4500;
+    border-color: #FF4500
 }
 
 .register-done-container .register-verification-done a {
-    color: #FFD700
+    color: #FF4500
 }
 
 .slots-games-container,
@@ -1033,7 +1033,7 @@ ul.email-right-header li.active a {
 .casino-games-container .category-filter-link:hover,
 .race-games-container .category-filter-link.active,
 .race-games-container .category-filter-link:hover {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -1103,7 +1103,7 @@ ul.email-right-header li.active a {
 
 .info-center-content-title {
     background-color: #d0d0d0;
-    color: #FFD700
+    color: #FF4500
 }
 
 .info-center-title {
@@ -1125,7 +1125,7 @@ ul.email-right-header li.active a {
 
 .site-header {
     background: #020f32;
-    border-bottom-color: #FFD700
+    border-bottom-color: #FF4500
 }
 
 .top-menu>li {
@@ -1133,9 +1133,9 @@ ul.email-right-header li.active a {
 }
 
 .top-menu .game-list {
-    border-top-color: #FFD700;
+    border-top-color: #FF4500;
     background-color: rgba(3, 8, 40, .9);
-    border-bottom-color: #FFD700
+    border-bottom-color: #FF4500
 }
 
 .site-footer {
@@ -1147,7 +1147,7 @@ ul.email-right-header li.active a {
 }
 
 .footer-links>li>a:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .footer-links>li+li>a {
@@ -1177,7 +1177,7 @@ ul.email-right-header li.active a {
 }
 
 .contact-list>li a i {
-    background: #FFD700;
+    background: #FF4500;
     color: #00f923
 }
 
@@ -1203,11 +1203,11 @@ ul.email-right-header li.active a {
 }
 
 .standard-form-note span {
-    color: #FFD700
+    color: #FF4500
 }
 
 .standard-form-note strong {
-    color: #FFD700
+    color: #FF4500
 }
 
 .standard-inline-form-group label {
@@ -1227,7 +1227,7 @@ ul.email-right-header li.active a {
 }
 
 .register-page-link a:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .form-control,
@@ -1243,7 +1243,7 @@ ul.email-right-header li.active a {
 
 .mobile-app-container .mobile-app-select .active a,
 .mobile-app-container .mobile-app-select a:hover {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -1255,7 +1255,7 @@ ul.email-right-header li.active a {
 .messaging-side-menu .support-ticket>a,
 .deposit-container .reveal-bank-account-button {
     color: #fff;
-    background: #FFD700
+    background: #FF4500
 }
 
 .standard-button-group .btn-primary:hover,
@@ -1267,7 +1267,7 @@ ul.email-right-header li.active a {
 
 .deposit-container .copy-bank-account-button,
 .copy-input-button-field .copy-input-button {
-    color: #FFD700
+    color: #FF4500
 }
 
 .deposit-container .copy-bank-account-button:hover,
@@ -1293,7 +1293,7 @@ ul.email-right-header li.active a {
 
 .expiration-countdown [data-section] {
     background-color: #404040;
-    color: #FFD700;
+    color: #FF4500;
     border-left-color: #6b6b6b
 }
 
@@ -1306,7 +1306,7 @@ ul.email-right-header li.active a {
 .expiration-countdown [data-value="hours"],
 .expiration-countdown [data-value="minutes"],
 .expiration-countdown [data-value="seconds"] {
-    color: #FFD700
+    color: #FF4500
 }
 
 .game-list-title>div {
@@ -1330,7 +1330,7 @@ ul.email-right-header li.active a {
 .game-list .game-name,
 .game-list .provider-name {
     color: #fff;
-    background: #FFD700
+    background: #FF4500
 }
 
 .game-list .wrapper-container:hover {
@@ -1370,7 +1370,7 @@ ul.email-right-header li.active a {
 }
 
 .login-panel .register-button {
-    background: linear-gradient(to bottom, #FFD700 0%, #FFD700 100%);
+    background: linear-gradient(to bottom, #FF4500 0%, #FF0000 100%);
     color: #fff
 }
 
@@ -1514,8 +1514,8 @@ ul.email-right-header li.active a {
 .link-container a.game-info:focus,
 .game-info:hover,
 .game-info:focus {
-    border-color: #FFD700;
-    color: #FFD700
+    border-color: #FF4500;
+    color: #FF4500
 }
 
 .provider-page .large-game-list-container,
@@ -1529,7 +1529,7 @@ ul.email-right-header li.active a {
 .game-provider-desc,
 .provider-info h5,
 .provider-info p {
-    color: #FFD700
+    color: #FF4500
 }
 
 .modal-content {
@@ -1540,7 +1540,7 @@ ul.email-right-header li.active a {
 
 .modal-content h4,
 .download-popup-modal .modal-header .modal-title {
-    color: #FFD700
+    color: #FF4500
 }
 
 .modal-header .close {
@@ -1563,12 +1563,12 @@ ul.email-right-header li.active a {
 }
 
 .modal-footer .btn-secondary:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .modal-footer .btn-primary {
     color: #fff;
-    background: #FFD700
+    background: #FF4500
 }
 
 .modal-footer .btn-primary:hover {
@@ -1577,11 +1577,11 @@ ul.email-right-header li.active a {
 
 .referral-box-container .referral-box {
     background-color: #1b2757;
-    border-bottom: 1px solid #FFD700
+    border-bottom: 1px solid #FF4500
 }
 
 .referral-box-container .referral-box span {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-box-container .referral-box h4 {
@@ -1589,7 +1589,7 @@ ul.email-right-header li.active a {
 }
 
 .referral-box-container .referral-box .referral-box-icon {
-    background: #FFD700
+    background: #FF4500
 }
 
 .referral-code-container h4 {
@@ -1605,7 +1605,7 @@ ul.email-right-header li.active a {
 .referral-box a:hover,
 .referral-code-container a:hover,
 .change-referral-code a:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-code-container {
@@ -1627,7 +1627,7 @@ ul.email-right-header li.active a {
 }
 
 .referral-section .referral-code-copy-btn {
-    background: #FFD700
+    background: #FF4500
 }
 
 .referral-section .referral-code-copy-btn img {
@@ -1647,7 +1647,7 @@ ul.email-right-header li.active a {
 }
 
 .referral-section .referral-code-container {
-    border: 1px dashed #FFD700;
+    border: 1px dashed #FF4500;
     color: #000
 }
 
@@ -1657,15 +1657,15 @@ ul.email-right-header li.active a {
 
 .user-info .vendor-balances-container .vendor-balances-header,
 .user-info .vendor-balances-container strong {
-    color: #FFD700
+    color: #FF4500
 }
 
 .user-info .vendor-balances-container .vendor-balances-header {
-    border-bottom: 2px solid #FFD700
+    border-bottom: 2px solid #FF4500
 }
 
 .user-info .vendor-balances-container {
-    border: 3px solid #FFD700
+    border: 3px solid #FF4500
 }
 
 .download-apk {
@@ -1673,13 +1673,13 @@ ul.email-right-header li.active a {
 }
 
 .download-apk-section i {
-    color: #FFD700
+    color: #FF4500
 }
 
 .download-apk .btn {
     color: #fefefe;
-    background: #FFD700;
-    background: linear-gradient(to bottom, #FFD700 0%, #be0085 100%);
+    background: #FF4500;
+    background: linear-gradient(to bottom, #FF4500 0%, #be0085 100%);
     border: 0
 }
 
@@ -1696,7 +1696,7 @@ ul.email-right-header li.active a {
 .deposit-amount-container .real-deposit-amount,
 .deposit-amount-container .deposit-amount .currency-suffix,
 .deposit-amount-container .deposit-amount input.form-control {
-    color: #FFD700
+    color: #FF4500
 }
 
 .deposit-amount-container .deposit-amount .currency-label,
@@ -1709,7 +1709,7 @@ ul.email-right-header li.active a {
 }
 
 .standard-side-menu .player-account-section .username {
-    color: #FFD700
+    color: #FF4500
 }
 
 .top-tab-container a[data-active="true"],
@@ -1733,30 +1733,30 @@ ul.email-right-header li.active a {
 .arcade-games-container .category-filter-link:hover,
 .crash-game-games-container .category-filter-link.active,
 .crash-game-games-container .category-filter-link:hover {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .standard-profile-bar .user-field div .username {
-    color: #FFD700
+    color: #FF4500
 }
 
 .standard-profile-bar .referral-code-container {
     border: 1px dashed #23527c;
     background-color: #1b2757;
-    color: #FFD700
+    color: #FF4500
 }
 
 .standard-content-info h2 {
-    color: #FFD700
+    color: #FF4500
 }
 
 .bank-info-container .carousel-indicators .active,
 .bank-info-container .carousel-indicators li:hover {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .claim-filter-container select.form-control {
-    color: #FFD700;
+    color: #FF4500;
     background-color: #0a1849;
     border-color: #fff
 }
@@ -1772,7 +1772,7 @@ ul.email-right-header li.active a {
 
 .provider-slide>i {
     background-color: rgba(255, 255, 255, .1);
-    color: #FFD700
+    color: #FF4500
 }
 
 .provider-slide>i:hover {
@@ -1796,36 +1796,36 @@ ul.email-right-header li.active a {
 }
 
 .otp-hr {
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .request-otp-button,
 .request-otp-button:hover,
 .contact-verification-link,
 .contact-verification-link:hover {
-    border-color: #FFD700;
-    color: #FFD700
+    border-color: #FF4500;
+    color: #FF4500
 }
 
 .otp-input {
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .home-game-list-container .container-title span {
     color: #fff;
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .home-game-list-container .container-title span:after {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .home-game-list-container .container-content {
-    border: 1px solid #FFD700
+    border: 1px solid #FF4500
 }
 
 .home-game-list-container .container-content .game-list .game-item .game-name {
-    color: #FFD700
+    color: #FF4500
 }
 
 .home-game-list-container .container-content .game-list::-webkit-scrollbar-thumb {
@@ -1874,14 +1874,14 @@ ul.email-right-header li.active a {
 }
 
 .payment-method-selection input[type="radio"]:checked+label {
-    background-color: #FFD700;
-    background-image: linear-gradient(to bottom, #FFD700 0%, #be0085 100%)
+    background-color: #FF4500;
+    background-image: linear-gradient(to bottom, #FF4500 0%, #be0085 100%)
 }
 
 .withdrawal-container .real-withdrawal-amount,
 .withdrawal-container .withdrawal-amount input.form-control,
 .withdrawal-container .withdrawal-amount .currency-suffix {
-    color: #FFD700
+    color: #FF4500
 }
 
 [data-payment-gateway] {
@@ -1897,7 +1897,7 @@ div[data-payment-gateway] h4 {
 }
 
 [data-payment-gateway="qris"] .qris-qr-code-container a {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -1906,8 +1906,8 @@ div[data-payment-gateway] h4 {
 }
 
 .notification-tabs .notification-tab-item[data-active="true"] {
-    background-color: #FFD700;
-    background-image: linear-gradient(to bottom, #FFD700 0%, #be0085 100%)
+    background-color: #FF4500;
+    background-image: linear-gradient(to bottom, #FF4500 0%, #be0085 100%)
 }
 
 .replied-message[data-message-type="announcement"] {
@@ -1940,7 +1940,7 @@ div[data-payment-gateway] h4 {
 }
 
 .standard-section-title:before {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .loyalty-container .loyalty-menu a {
@@ -1996,14 +1996,14 @@ div[data-payment-gateway] h4 {
 }
 
 .mission-container .mission-item[data-status="claimable"] .mission-action-container .action-button {
-    background-color: #FFD700;
-    background-image: linear-gradient(to bottom, #FFD700 0%, #be0085 100%);
+    background-color: #FF4500;
+    background-image: linear-gradient(to bottom, #FF4500 0%, #be0085 100%);
     color: #fff
 }
 
 .mission-container .mission-item[data-status="claimable"] .mission-action-container .action-button:hover {
     background-color: #be0085;
-    background-image: linear-gradient(to bottom, #be0085 0%, #FFD700 100%)
+    background-image: linear-gradient(to bottom, #be0085 0%, #FF4500 100%)
 }
 
 .loyalty-menu-container .loyalty-menu-item {
@@ -2019,14 +2019,14 @@ div[data-payment-gateway] h4 {
 }
 
 .daily-reward-container .standard-secondary-button {
-    background-color: #FFD700;
-    background-image: linear-gradient(to bottom, #FFD700 0%, #be0085 100%);
+    background-color: #FF4500;
+    background-image: linear-gradient(to bottom, #FF4500 0%, #be0085 100%);
     color: #fff
 }
 
 .daily-reward-container .standard-secondary-button:hover {
     background: #be0085;
-    background: linear-gradient(to bottom, #be0085 0%, #FFD700 100%)
+    background: linear-gradient(to bottom, #be0085 0%, #FF4500 100%)
 }
 
 .level-progress-info .level-name {
@@ -2059,15 +2059,15 @@ div[data-payment-gateway] h4 {
 }
 
 .loyalty-available-rank-up-modal .standard-secondary-button {
-    background: #FFD700;
-    background: linear-gradient(to bottom, #FFD700 0%, #be0085 100%);
+    background: #FF4500;
+    background: linear-gradient(to bottom, #FF4500 0%, #be0085 100%);
     color: #fff;
     border: 0
 }
 
 .loyalty-available-rank-up-modal .standard-secondary-button:hover {
     background: #be0085;
-    background: linear-gradient(to bottom, #be0085 0%, #FFD700 100%)
+    background: linear-gradient(to bottom, #be0085 0%, #FF4500 100%)
 }
 
 .introjs-tooltip-title {
@@ -2075,16 +2075,16 @@ div[data-payment-gateway] h4 {
 }
 
 .introjs-tooltiptext .subtitle {
-    color: #FFD700
+    color: #FF4500
 }
 
 .introjs-nextbutton {
-    background-image: linear-gradient(to bottom, #FFD700, #be0085);
+    background-image: linear-gradient(to bottom, #FF4500, #be0085);
     color: #fff
 }
 
 .introjs-nextbutton:hover {
-    background-image: linear-gradient(to bottom, #be0085, #FFD700);
+    background-image: linear-gradient(to bottom, #be0085, #FF4500);
     color: #fff
 }
 
@@ -2094,12 +2094,12 @@ div[data-payment-gateway] h4 {
 
 .introjs-bullets ul li a.active,
 .introjs-bullets ul li a:hover {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .introjs-skipbutton,
 .introjs-skipbutton:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .how-it-works-container .how-it-works-section {
@@ -2108,7 +2108,7 @@ div[data-payment-gateway] h4 {
 }
 
 .how-it-works-container .how-it-works-section .how-it-works-section-title {
-    color: #FFD700
+    color: #FF4500
 }
 
 .how-it-works-container .how-it-works-section .how-it-works-list .how-it-works-item p {
@@ -2124,7 +2124,7 @@ div[data-payment-gateway] h4 {
 }
 
 .referral-features .referral-features-item .feature-icon>div {
-    background: linear-gradient(to bottom, #FFD700 0%, #be0085 100%)
+    background: linear-gradient(to bottom, #FF4500 0%, #be0085 100%)
 }
 
 .referral-features .referral-features-item .feature-info span {
@@ -2132,7 +2132,7 @@ div[data-payment-gateway] h4 {
 }
 
 .referral-features .referral-features-item .feature-info p {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-verification-container input.form-control {
@@ -2150,7 +2150,7 @@ div[data-payment-gateway] h4 {
 .simple-form-note,
 .referral-verification-container .standard-form-note,
 .referral-verification-container .standard-form-note.with-icon>div:last-child p {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-verification-container .terms-conditions-container h3,
@@ -2163,7 +2163,7 @@ div[data-payment-gateway] h4 {
 }
 
 .pending-verification-container .icon-container {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .pending-verification-container h2 {
@@ -2171,7 +2171,7 @@ div[data-payment-gateway] h4 {
 }
 
 .pending-verification-container p {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-verification-container .terms-conditions-container ol {
@@ -2187,12 +2187,12 @@ div[data-payment-gateway] h4 {
 }
 
 .referral-verification-container [data-is-contact-verified="false"] .profile-link {
-    background: linear-gradient(to bottom, #FFD700 0%, #be0085 100%);
+    background: linear-gradient(to bottom, #FF4500 0%, #be0085 100%);
     color: #fff
 }
 
 .referral-verification-container [data-is-contact-verified="false"] .profile-link:hover {
-    background: linear-gradient(to bottom, #be0085 0%, #FFD700 100%)
+    background: linear-gradient(to bottom, #be0085 0%, #FF4500 100%)
 }
 
 .verify-whatsapp-popup {
@@ -2206,19 +2206,19 @@ div[data-payment-gateway] h4 {
 
 .popular-game-title-container .container-title span {
     color: #fff;
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .popular-game-title-container .container-title span:after {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .popular-game-title-container .container-content {
-    border: 1px solid #FFD700
+    border: 1px solid #FF4500
 }
 
 .popular-game-title-container .container-content .game-list .game-item .game-name {
-    color: #FFD700
+    color: #FF4500
 }
 
 .popular-game-title-container .container-content .game-list::-webkit-scrollbar-thumb {
@@ -2238,7 +2238,7 @@ div[data-payment-gateway] h4 {
 
 .deposit-summary-container .deposit-summary-header .summary-transfer-amount,
 .withdrawal-summary-container .withdrawal-summary-header .summary-transfer-amount {
-    color: #FFD700
+    color: #FF4500
 }
 
 .deposit-summary-container .deposit-summary-content,
@@ -2300,12 +2300,12 @@ div[data-payment-gateway] h4 {
 
 .popover {
     background-color: #0a1849;
-    border-color: #FFD700;
+    border-color: #FF4500;
     color: #fff
 }
 
 .popover.top .arrow {
-    border-top-color: #FFD700
+    border-top-color: #FF4500
 }
 
 .popover.top .arrow:after {
@@ -2313,7 +2313,7 @@ div[data-payment-gateway] h4 {
 }
 
 [data-payment-gateway] .download-qr-button {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -2458,7 +2458,7 @@ div[data-payment-gateway] h4 {
 }
 
 .otp-popup .otp-popup-content .resend-button {
-    color: #FFD700
+    color: #FF4500
 }
 
 .bonus-selection-popup .bonus-selection-popup-content {
@@ -2513,7 +2513,7 @@ div[data-payment-gateway] h4 {
 }
 
 .notification-popup-body .notification-list .notification-item[data-seen="false"] .notification-header .notification-title {
-    color: #FFD700
+    color: #FF4500
 }
 
 .notification-list .notification-item,
@@ -2528,7 +2528,7 @@ div[data-payment-gateway] h4 {
 }
 
 .notification-list .notification-item .notification-header .notification-label {
-    background: #FFD700
+    background: #FF4500
 }
 
 .notification-list .notification-item .notification-title-container .notification-title-content h3 {
@@ -2544,12 +2544,12 @@ div[data-payment-gateway] h4 {
 }
 
 .unread-announcements-popup {
-    border-color: #FFD700;
+    border-color: #FF4500;
     color: #fff
 }
 
 .unread-announcements-popup:before {
-    border-bottom-color: #FFD700
+    border-bottom-color: #FF4500
 }
 
 .notification-popup-body .notification-list .notification-item {
@@ -2571,12 +2571,12 @@ div[data-payment-gateway] h4 {
 }
 
 .notification-popup-body .notification-footer {
-    background-color: #FFD700;
-    background-image: linear-gradient(to bottom, #FFD700 0%, #be0085 100%)
+    background-color: #FF4500;
+    background-image: linear-gradient(to bottom, #FF4500 0%, #be0085 100%)
 }
 
 .home-progressive-jackpot {
-    background-image: linear-gradient(#01013e, #FFD700, #01013e)
+    background-image: linear-gradient(#01013e, #FF4500, #01013e)
 }
 
 .home-progressive-jackpot .outer-container {
@@ -2584,15 +2584,15 @@ div[data-payment-gateway] h4 {
 }
 
 .home-progressive-jackpot .inner-container {
-    background-image: linear-gradient(#FFD700, #020228)
+    background-image: linear-gradient(#FF4500, #020228)
 }
 
 .home-progressive-jackpot .border-container {
-    border-color: #fe00b1
+    border-color: #FF4500
 }
 
 .home-progressive-jackpot .jackpot-container {
-    background-image: linear-gradient(#FFD700, #000021)
+    background-image: linear-gradient(#FF4500, #000021)
 }
 
 .home-progressive-jackpot .jackpot-border-container {
@@ -2600,7 +2600,7 @@ div[data-payment-gateway] h4 {
 }
 
 .home-progressive-jackpot .jackpot-currency {
-    color: #fe00b1
+    color: #FF4500
 }
 
 .standard-form-container.loyalty-benefit-form-container {
@@ -2635,8 +2635,8 @@ div[data-payment-gateway] h4 {
 }
 
 .loyalty-level-remarks-container {
-    background: #FFD70033;
-    border-color: #FFD700
+    background: #FF4500 33;
+    border-color: #FF4500
 }
 
 .loyalty-level-remarks-container span {
@@ -2667,11 +2667,11 @@ div[data-payment-gateway] h4 {
 }
 
 .loyalty-reward-container .category-title::before {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .loyalty-reward-container .loyalty-reward-button {
-    background-image: linear-gradient(to bottom, #FFD700, #FFD700);
+    background-image: linear-gradient(to bottom, #FF4500, #FF4500);
     color: #fff
 }
 
@@ -2680,7 +2680,7 @@ div[data-payment-gateway] h4 {
 }
 
 .loyalty-reward-container .tab-filter input:checked+.tab {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .loyalty-reward-container .flash-sale-container::-webkit-scrollbar-thumb,
@@ -2707,15 +2707,15 @@ div[data-payment-gateway] h4 {
 }
 
 .forgot-password-modal .modal-header hr {
-    background: -webkit-gradient(linear, 0 0, 100% 0, from(transparent), to(transparent), color-stop(50%, #FFD700))
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(transparent), to(transparent), color-stop(50%, #FF4500))
 }
 
 .forgot-password-modal hr {
-    border-top-color: #FFD700
+    border-top-color: #FF4500
 }
 
 .whitelisted-domains-link {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -2724,7 +2724,7 @@ div[data-payment-gateway] h4 {
 }
 
 .standard-remark-notification .remark-notification-content span {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-contact-verification p {
@@ -2757,36 +2757,36 @@ div[data-payment-gateway] h4 {
 }
 
 .set-as-default-button {
-    color: #FFD700;
+    color: #FF4500;
     background: none;
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .notification-list .notification-item .notification-play-button {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
 .claim-item .claim-title .free-spin-note {
-    color: #FFD700
+    color: #FF4500
 }
 
 .floating-action-button .floating-action-button-item {
-    background: linear-gradient(0deg, #c7038c 0%, #FFD700 100%);
-    border-color: #ff43c6;
-    box-shadow: 0 4px 24px 0 #FFD70080
+    background: linear-gradient(0deg, #000000 0%, #FF4500 100%);
+    border-color: #FF4500;
+    box-shadow: 0 4px 24px 0 #FF4500 80
 }
 
 .bonus-selection-container .bonus-action .cancel-bonus-button {
-    border: 1px solid #FFD700;
-    color: #FFD700
+    border: 1px solid #FF4500;
+    color: #FF4500
 }
 
 .bonus-selection-container,
 .bonus-selection-list .bonus-selection-card.selected {
     background: #ffe3fb;
-    border-color: #FFD700;
-    color: #FFD700
+    border-color: #FF4500;
+    color: #FF4500
 }
 
 .bonus-selection-container .bonus-action>img {
@@ -2867,8 +2867,8 @@ div[data-payment-gateway] h4 {
 }
 
 .simple-modal .btn-secondary {
-    border: 1px solid #FFD700;
-    color: #FFD700
+    border: 1px solid #FF4500;
+    color: #FF4500
 }
 
 .payment-account-list .payment-account-item:hover {
@@ -2891,7 +2891,7 @@ div[data-payment-gateway] h4 {
 }
 
 .standard-outline-button {
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .standard-remarks-container .standard-remarks-content-container p {
@@ -2899,7 +2899,7 @@ div[data-payment-gateway] h4 {
 }
 
 .standard-remarks-container .standard-remarks-content-container p span {
-    color: #FFD700
+    color: #FF4500
 }
 
 .contact-verification-popup .contact-verification-section input {
@@ -2920,12 +2920,12 @@ h6 {
 
 a {
     outline: 0;
-    color: #FFD700
+    color: #FF4500
 }
 
 a:focus,
 a:hover {
-    color: #FFD700;
+    color: #FF4500;
     text-decoration: none
 }
 
@@ -2942,7 +2942,7 @@ p {
 }
 
 .nav-tabs>li>a:hover {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -2957,7 +2957,7 @@ p {
 }
 
 .login-panel .forgot-password-link:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .bonus-slider-modal .modal-header .close {
@@ -2970,7 +2970,7 @@ p {
 }
 
 .bonus-slider-modal .activation-button {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -2988,7 +2988,7 @@ p {
 }
 
 .announcement-container {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #070d2f
 }
 
@@ -3020,7 +3020,7 @@ p {
 .popular-games .nav-tabs>li.active>a,
 .popular-games .nav-tabs>li.active>a:hover .popular-games .nav-tabs>li.active>a:focus,
 .popular-games .nav-tabs>li>a:hover {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .popular-games .tab-pane {
@@ -3111,7 +3111,7 @@ p {
 }
 
 .confirmation-message-modal .confirm-btn:hover {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff;
     border: 0
 }
@@ -3121,7 +3121,7 @@ p {
 }
 
 .profile-container .mobile-info-button:hover {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -3151,7 +3151,7 @@ p {
 }
 
 .topbar-left-section .topbar-item a:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .topbar-left-section .topbar-item .live-chat {
@@ -3160,12 +3160,12 @@ p {
 }
 
 .topbar-left-section .topbar-item .live-chat:hover {
-    background: #FFD700
+    background: #FF4500
 }
 
 .top-menu>li:hover,
 .top-menu>li[data-active="true"] {
-    color: #FFD700
+    color: #FF4500
 }
 
 .copyright {
@@ -3183,7 +3183,7 @@ p {
 }
 
 .play-now {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff;
     border-color: #76a0ff
 }
@@ -3191,7 +3191,7 @@ p {
 .play-now:hover {
     background: #a34afb;
     color: #fff;
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .free-play {
@@ -3262,7 +3262,7 @@ p {
 
 .user-info .dropdown-menu>li>a:focus,
 .user-info .dropdown-menu>li>a:hover {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -3379,7 +3379,7 @@ ul.email-right-header li a {
 }
 
 .withdrawal-container .total-balance {
-    color: #FFD700;
+    color: #FF4500;
     border-color: #ccc
 }
 
@@ -3392,7 +3392,7 @@ ul.email-right-header li a {
 
 .standard-side-menu a[data-active="true"],
 .standard-side-menu a:hover {
-    color: #FFD700;
+    color: #FF4500;
     background-color: #1e274b
 }
 
@@ -3457,7 +3457,7 @@ ul.email-right-header li a {
 }
 
 .standard-reporting-control-group .btn-primary {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -3484,7 +3484,7 @@ ul.email-right-header li a {
     background-color: #0a1849;
     color: #dad9d9;
     box-shadow: 0 0 15px rgba(0, 0, 0, .2);
-    border-top: 2px solid #FFD700
+    border-top: 2px solid #FF4500
 }
 
 .bonus-controls-field .bonus-control-button {
@@ -3494,18 +3494,18 @@ ul.email-right-header li a {
 
 .bonus-controls-field .bonus-amount {
     background-color: #0e0e0e;
-    color: #FFD700
+    color: #FF4500
 }
 
 .bonus-range .bubble {
     color: #fff;
-    border-color: #FFD700;
+    border-color: #FF4500;
     background: #030a2e
 }
 
 .bonus-range .bubble::before {
     border-color: rgba(233, 154, 1, 0);
-    border-top-color: #FFD700
+    border-top-color: #FF4500
 }
 
 .bonus-range .bubble::after {
@@ -3532,7 +3532,7 @@ ul.email-right-header li a {
 }
 
 .claim-info-modal h4 {
-    color: #FFD700
+    color: #FF4500
 }
 
 .standard-form-note.claim-note span,
@@ -3541,11 +3541,11 @@ ul.email-right-header li a {
 }
 
 .claim-item-type>div {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .claim-item-type .expiration-countdown [data-section] {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .claim-item-type .expiration-countdown [data-section]::before {
@@ -3554,7 +3554,7 @@ ul.email-right-header li a {
 
 .claim-item-container .claim-item {
     background: #f5f5f5;
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .claim-item-container .claim-item .claim-title,
@@ -3573,7 +3573,7 @@ ul.email-right-header li a {
 .claim-item .cancellation-button,
 .claim-item .expiration-button {
     color: #fff;
-    background: #FFD700
+    background: #FF4500
 }
 
 .claim-item .claim-button:hover,
@@ -3601,7 +3601,7 @@ ul.email-right-header li a {
 }
 
 .contact-us-list li a {
-    color: #FFD700
+    color: #FF4500
 }
 
 .deposit-container .bank-info {
@@ -3619,8 +3619,8 @@ ul.email-right-header li a {
 
 .banner .carousel-indicators .active,
 .banner .carousel-indicators .slick-active {
-    background: #FFD700;
-    border-color: #FFD700
+    background: #FF4500;
+    border-color: #FF4500
 }
 
 .home-info-container,
@@ -3630,7 +3630,7 @@ ul.email-right-header li a {
 }
 
 .lottery-result-container {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -3639,7 +3639,7 @@ ul.email-right-header li a {
 }
 
 .lottery-result-container .lottery-result-title {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -3735,8 +3735,8 @@ ul.email-right-header li.active a {
 
 .messaging-side-menu [data-active="true"] a,
 .messaging-side-menu a:hover {
-    color: #FFD700;
-    border-bottom-color: #FFD700
+    color: #FF4500;
+    border-bottom-color: #FF4500
 }
 
 .replied-message {
@@ -3768,7 +3768,7 @@ ul.email-right-header li.active a {
 .mobile-app-container .nav-tabs>li.active>a,
 .mobile-app-container .nav-tabs>li.active>a:hover,
 .mobile-app-container .nav-tabs>li.active>a:focus {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -3809,7 +3809,7 @@ ul.email-right-header li.active a {
 
 .promotions-container .standard-side-menu a[data-active="true"],
 .promotions-container .standard-side-menu a:hover {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -3822,7 +3822,7 @@ ul.email-right-header li.active a {
 }
 
 .promotion-item .click-for-get-promo-button {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -3839,7 +3839,7 @@ ul.email-right-header li.active a {
 }
 
 .promotion-item-details .click-for-get-promo-button {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -3870,7 +3870,7 @@ ul.email-right-header li.active a {
 }
 
 .register-done-container>h2 span {
-    color: #FFD700
+    color: #FF4500
 }
 
 .register-done-container>h3 span {
@@ -3882,19 +3882,19 @@ ul.email-right-header li.active a {
 }
 
 .register-done-container .btn-deposit {
-    background: #FFD700;
-    background: linear-gradient(to top, #000000 0%, #FFD700 100%);
+    background: #FF4500;
+    background: linear-gradient(to top, #000000 0%, #FF4500 100%);
     box-shadow: rgba(0, 0, 0, .2) 0 0 20px 5px
 }
 
 .register-done-container .btn-deposit:hover {
-    background: linear-gradient(to bottom, #FFD700 0%, #000000 100%)
+    background: linear-gradient(to bottom, #FF4500 0%, #000000 100%)
 }
 
 .register-done-container .buttons-container-register-done .btn {
-    background: linear-gradient(to bottom, #FFD700 0%, #FFD700 100%);
+    background: linear-gradient(to bottom, #FF4500 0%, #FF4500 100%);
     color: #fff;
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .register-done-container .buttons-container-register-done .btn:hover {
@@ -3903,17 +3903,17 @@ ul.email-right-header li.active a {
 }
 
 .register-done-container .register-verification-done {
-    border-color: #FFD700;
+    border-color: #FF4500;
     background: #263f95
 }
 
 .register-done-container .register-verification-done .info {
-    color: #FFD700;
-    border-color: #FFD700
+    color: #FF4500;
+    border-color: #FF4500
 }
 
 .register-done-container .register-verification-done a {
-    color: #FFD700
+    color: #FF4500
 }
 
 .slots-games-container,
@@ -3947,7 +3947,7 @@ ul.email-right-header li.active a {
 .casino-games-container .category-filter-link:hover,
 .race-games-container .category-filter-link.active,
 .race-games-container .category-filter-link:hover {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -4017,7 +4017,7 @@ ul.email-right-header li.active a {
 
 .info-center-content-title {
     background-color: #d0d0d0;
-    color: #FFD700
+    color: #FF4500
 }
 
 .info-center-title {
@@ -4039,7 +4039,7 @@ ul.email-right-header li.active a {
 
 .site-header {
     background: #020f32;
-    border-bottom-color: #FFD700
+    border-bottom-color: #FF4500
 }
 
 .top-menu>li {
@@ -4047,9 +4047,9 @@ ul.email-right-header li.active a {
 }
 
 .top-menu .game-list {
-    border-top-color: #FFD700;
+    border-top-color: #FF4500;
     background-color: rgba(3, 8, 40, .9);
-    border-bottom-color: #FFD700
+    border-bottom-color: #FF4500
 }
 
 .site-footer {
@@ -4061,7 +4061,7 @@ ul.email-right-header li.active a {
 }
 
 .footer-links>li>a:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .footer-links>li+li>a {
@@ -4091,7 +4091,7 @@ ul.email-right-header li.active a {
 }
 
 .contact-list>li a i {
-    background: #FFD700;
+    background: #FF4500;
     color: #00f923
 }
 
@@ -4117,11 +4117,11 @@ ul.email-right-header li.active a {
 }
 
 .standard-form-note span {
-    color: #FFD700
+    color: #FF4500
 }
 
 .standard-form-note strong {
-    color: #FFD700
+    color: #FF4500
 }
 
 .standard-inline-form-group label {
@@ -4141,7 +4141,7 @@ ul.email-right-header li.active a {
 }
 
 .register-page-link a:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .form-control,
@@ -4157,7 +4157,7 @@ ul.email-right-header li.active a {
 
 .mobile-app-container .mobile-app-select .active a,
 .mobile-app-container .mobile-app-select a:hover {
-    background-color: #FFD700;
+    background-color: #FF4500;
     color: #fff
 }
 
@@ -4169,7 +4169,7 @@ ul.email-right-header li.active a {
 .messaging-side-menu .support-ticket>a,
 .deposit-container .reveal-bank-account-button {
     color: #fff;
-    background: #FFD700
+    background: #FF4500
 }
 
 .standard-button-group .btn-primary:hover,
@@ -4181,7 +4181,7 @@ ul.email-right-header li.active a {
 
 .deposit-container .copy-bank-account-button,
 .copy-input-button-field .copy-input-button {
-    color: #FFD700
+    color: #FF4500
 }
 
 .deposit-container .copy-bank-account-button:hover,
@@ -4207,7 +4207,7 @@ ul.email-right-header li.active a {
 
 .expiration-countdown [data-section] {
     background-color: #404040;
-    color: #FFD700;
+    color: #FF4500;
     border-left-color: #6b6b6b
 }
 
@@ -4220,7 +4220,7 @@ ul.email-right-header li.active a {
 .expiration-countdown [data-value="hours"],
 .expiration-countdown [data-value="minutes"],
 .expiration-countdown [data-value="seconds"] {
-    color: #FFD700
+    color: #FF4500
 }
 
 .game-list-title>div {
@@ -4244,7 +4244,7 @@ ul.email-right-header li.active a {
 .game-list .game-name,
 .game-list .provider-name {
     color: #fff;
-    background: #FFD700
+    background: #FF4500
 }
 
 .game-list .wrapper-container:hover {
@@ -4274,17 +4274,17 @@ ul.email-right-header li.active a {
 }
 
 .login-panel .login-button {
-    background: linear-gradient(to right, #000000 0%, #FFD700 100%);
+    background: linear-gradient(to right, #000000 0%, #FF4500 100%);
     color: #fff
 }
 
 .login-panel .login-button:hover {
-    background: linear-gradient(to right, #FFD700 0%, #000000 100%);
+    background: linear-gradient(to right, #FF4500 0%, #000000 100%);
     color: #fff
 }
 
 .login-panel .register-button {
-    background: linear-gradient(to bottom, #FFD700 0%, #FFD700 100%);
+    background: linear-gradient(to bottom, #FF4500 0%, #FF0000 100%);
     color: #fff
 }
 
@@ -4428,8 +4428,8 @@ ul.email-right-header li.active a {
 .link-container a.game-info:focus,
 .game-info:hover,
 .game-info:focus {
-    border-color: #FFD700;
-    color: #FFD700
+    border-color: #FF4500;
+    color: #FF4500
 }
 
 .provider-page .large-game-list-container,
@@ -4443,7 +4443,7 @@ ul.email-right-header li.active a {
 .game-provider-desc,
 .provider-info h5,
 .provider-info p {
-    color: #FFD700
+    color: #FF4500
 }
 
 .modal-content {
@@ -4454,7 +4454,7 @@ ul.email-right-header li.active a {
 
 .modal-content h4,
 .download-popup-modal .modal-header .modal-title {
-    color: #FFD700
+    color: #FF4500
 }
 
 .modal-header .close {
@@ -4477,12 +4477,12 @@ ul.email-right-header li.active a {
 }
 
 .modal-footer .btn-secondary:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .modal-footer .btn-primary {
     color: #fff;
-    background: #FFD700
+    background: #FF4500
 }
 
 .modal-footer .btn-primary:hover {
@@ -4491,11 +4491,11 @@ ul.email-right-header li.active a {
 
 .referral-box-container .referral-box {
     background-color: #1b2757;
-    border-bottom: 1px solid #FFD700
+    border-bottom: 1px solid #FF4500
 }
 
 .referral-box-container .referral-box span {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-box-container .referral-box h4 {
@@ -4503,7 +4503,7 @@ ul.email-right-header li.active a {
 }
 
 .referral-box-container .referral-box .referral-box-icon {
-    background: #FFD700
+    background: #FF4500
 }
 
 .referral-code-container h4 {
@@ -4519,7 +4519,7 @@ ul.email-right-header li.active a {
 .referral-box a:hover,
 .referral-code-container a:hover,
 .change-referral-code a:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-code-container {
@@ -4541,7 +4541,7 @@ ul.email-right-header li.active a {
 }
 
 .referral-section .referral-code-copy-btn {
-    background: #FFD700
+    background: #FF4500
 }
 
 .referral-section .referral-code-copy-btn img {
@@ -4561,7 +4561,7 @@ ul.email-right-header li.active a {
 }
 
 .referral-section .referral-code-container {
-    border: 1px dashed #FFD700;
+    border: 1px dashed #FF4500;
     color: #000
 }
 
@@ -4571,15 +4571,15 @@ ul.email-right-header li.active a {
 
 .user-info .vendor-balances-container .vendor-balances-header,
 .user-info .vendor-balances-container strong {
-    color: #FFD700
+    color: #FF4500
 }
 
 .user-info .vendor-balances-container .vendor-balances-header {
-    border-bottom: 2px solid #FFD700
+    border-bottom: 2px solid #FF4500
 }
 
 .user-info .vendor-balances-container {
-    border: 3px solid #FFD700
+    border: 3px solid #FF4500
 }
 
 .download-apk {
@@ -4587,13 +4587,13 @@ ul.email-right-header li.active a {
 }
 
 .download-apk-section i {
-    color: #FFD700
+    color: #FF4500
 }
 
 .download-apk .btn {
     color: #fefefe;
-    background: #FFD700;
-    background: linear-gradient(to bottom, #FFD700 0%, #be0085 100%);
+    background: #FF4500;
+    background: linear-gradient(to bottom, #FF4500 0%, #be0085 100%);
     border: 0
 }
 
@@ -4610,7 +4610,7 @@ ul.email-right-header li.active a {
 .deposit-amount-container .real-deposit-amount,
 .deposit-amount-container .deposit-amount .currency-suffix,
 .deposit-amount-container .deposit-amount input.form-control {
-    color: #FFD700
+    color: #FF4500
 }
 
 .deposit-amount-container .deposit-amount .currency-label,
@@ -4623,7 +4623,7 @@ ul.email-right-header li.active a {
 }
 
 .standard-side-menu .player-account-section .username {
-    color: #FFD700
+    color: #FF4500
 }
 
 .top-tab-container a[data-active="true"],
@@ -4647,30 +4647,30 @@ ul.email-right-header li.active a {
 .arcade-games-container .category-filter-link:hover,
 .crash-game-games-container .category-filter-link.active,
 .crash-game-games-container .category-filter-link:hover {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .standard-profile-bar .user-field div .username {
-    color: #FFD700
+    color: #FF4500
 }
 
 .standard-profile-bar .referral-code-container {
     border: 1px dashed #23527c;
     background-color: #1b2757;
-    color: #FFD700
+    color: #FF4500
 }
 
 .standard-content-info h2 {
-    color: #FFD700
+    color: #FF4500
 }
 
 .bank-info-container .carousel-indicators .active,
 .bank-info-container .carousel-indicators li:hover {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .claim-filter-container select.form-control {
-    color: #FFD700;
+    color: #FF4500;
     background-color: #0a1849;
     border-color: #fff
 }
@@ -4686,7 +4686,7 @@ ul.email-right-header li.active a {
 
 .provider-slide>i {
     background-color: rgba(255, 255, 255, .1);
-    color: #FFD700
+    color: #FF4500
 }
 
 .provider-slide>i:hover {
@@ -4710,36 +4710,36 @@ ul.email-right-header li.active a {
 }
 
 .otp-hr {
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .request-otp-button,
 .request-otp-button:hover,
 .contact-verification-link,
 .contact-verification-link:hover {
-    border-color: #FFD700;
-    color: #FFD700
+    border-color: #FF4500;
+    color: #FF4500
 }
 
 .otp-input {
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .home-game-list-container .container-title span {
     color: #fff;
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .home-game-list-container .container-title span:after {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .home-game-list-container .container-content {
-    border: 1px solid #FFD700
+    border: 1px solid #FF4500
 }
 
 .home-game-list-container .container-content .game-list .game-item .game-name {
-    color: #FFD700
+    color: #FF4500
 }
 
 .home-game-list-container .container-content .game-list::-webkit-scrollbar-thumb {
@@ -4788,14 +4788,14 @@ ul.email-right-header li.active a {
 }
 
 .payment-method-selection input[type="radio"]:checked+label {
-    background-color: #FFD700;
-    background-image: linear-gradient(to bottom, #FFD700 0%, #be0085 100%)
+    background-color: #FF4500;
+    background-image: linear-gradient(to bottom, #FF4500 0%, #be0085 100%)
 }
 
 .withdrawal-container .real-withdrawal-amount,
 .withdrawal-container .withdrawal-amount input.form-control,
 .withdrawal-container .withdrawal-amount .currency-suffix {
-    color: #FFD700
+    color: #FF4500
 }
 
 [data-payment-gateway] {
@@ -4811,7 +4811,7 @@ div[data-payment-gateway] h4 {
 }
 
 [data-payment-gateway="qris"] .qris-qr-code-container a {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -4820,8 +4820,8 @@ div[data-payment-gateway] h4 {
 }
 
 .notification-tabs .notification-tab-item[data-active="true"] {
-    background-color: #FFD700;
-    background-image: linear-gradient(to bottom, #FFD700 0%, #be0085 100%)
+    background-color: #FF4500;
+    background-image: linear-gradient(to bottom, #FF4500 0%, #be0085 100%)
 }
 
 .replied-message[data-message-type="announcement"] {
@@ -4854,7 +4854,7 @@ div[data-payment-gateway] h4 {
 }
 
 .standard-section-title:before {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .loyalty-container .loyalty-menu a {
@@ -4910,14 +4910,14 @@ div[data-payment-gateway] h4 {
 }
 
 .mission-container .mission-item[data-status="claimable"] .mission-action-container .action-button {
-    background-color: #FFD700;
-    background-image: linear-gradient(to bottom, #FFD700 0%, #be0085 100%);
+    background-color: #FF4500;
+    background-image: linear-gradient(to bottom, #FF4500 0%, #be0085 100%);
     color: #fff
 }
 
 .mission-container .mission-item[data-status="claimable"] .mission-action-container .action-button:hover {
     background-color: #be0085;
-    background-image: linear-gradient(to bottom, #be0085 0%, #FFD700 100%)
+    background-image: linear-gradient(to bottom, #be0085 0%, #FF4500 100%)
 }
 
 .loyalty-menu-container .loyalty-menu-item {
@@ -4933,14 +4933,14 @@ div[data-payment-gateway] h4 {
 }
 
 .daily-reward-container .standard-secondary-button {
-    background-color: #FFD700;
-    background-image: linear-gradient(to bottom, #FFD700 0%, #be0085 100%);
+    background-color: #FF4500;
+    background-image: linear-gradient(to bottom, #FF4500 0%, #be0085 100%);
     color: #fff
 }
 
 .daily-reward-container .standard-secondary-button:hover {
     background: #be0085;
-    background: linear-gradient(to bottom, #be0085 0%, #FFD700 100%)
+    background: linear-gradient(to bottom, #be0085 0%, #FF4500 100%)
 }
 
 .level-progress-info .level-name {
@@ -4973,15 +4973,15 @@ div[data-payment-gateway] h4 {
 }
 
 .loyalty-available-rank-up-modal .standard-secondary-button {
-    background: #FFD700;
-    background: linear-gradient(to bottom, #FFD700 0%, #be0085 100%);
+    background: #FF4500;
+    background: linear-gradient(to bottom, #FF4500 0%, #be0085 100%);
     color: #fff;
     border: 0
 }
 
 .loyalty-available-rank-up-modal .standard-secondary-button:hover {
     background: #be0085;
-    background: linear-gradient(to bottom, #be0085 0%, #FFD700 100%)
+    background: linear-gradient(to bottom, #be0085 0%, #FF4500 100%)
 }
 
 .introjs-tooltip-title {
@@ -4989,16 +4989,16 @@ div[data-payment-gateway] h4 {
 }
 
 .introjs-tooltiptext .subtitle {
-    color: #FFD700
+    color: #FF4500
 }
 
 .introjs-nextbutton {
-    background-image: linear-gradient(to bottom, #FFD700, #be0085);
+    background-image: linear-gradient(to bottom, #FF4500, #be0085);
     color: #fff
 }
 
 .introjs-nextbutton:hover {
-    background-image: linear-gradient(to bottom, #be0085, #FFD700);
+    background-image: linear-gradient(to bottom, #be0085, #FF4500);
     color: #fff
 }
 
@@ -5008,12 +5008,12 @@ div[data-payment-gateway] h4 {
 
 .introjs-bullets ul li a.active,
 .introjs-bullets ul li a:hover {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .introjs-skipbutton,
 .introjs-skipbutton:hover {
-    color: #FFD700
+    color: #FF4500
 }
 
 .how-it-works-container .how-it-works-section {
@@ -5022,7 +5022,7 @@ div[data-payment-gateway] h4 {
 }
 
 .how-it-works-container .how-it-works-section .how-it-works-section-title {
-    color: #FFD700
+    color: #FF4500
 }
 
 .how-it-works-container .how-it-works-section .how-it-works-list .how-it-works-item p {
@@ -5038,7 +5038,7 @@ div[data-payment-gateway] h4 {
 }
 
 .referral-features .referral-features-item .feature-icon>div {
-    background: linear-gradient(to bottom, #FFD700 0%, #be0085 100%)
+    background: linear-gradient(to bottom, #FF4500 0%, #be0085 100%)
 }
 
 .referral-features .referral-features-item .feature-info span {
@@ -5046,7 +5046,7 @@ div[data-payment-gateway] h4 {
 }
 
 .referral-features .referral-features-item .feature-info p {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-verification-container input.form-control {
@@ -5064,7 +5064,7 @@ div[data-payment-gateway] h4 {
 .simple-form-note,
 .referral-verification-container .standard-form-note,
 .referral-verification-container .standard-form-note.with-icon>div:last-child p {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-verification-container .terms-conditions-container h3,
@@ -5077,7 +5077,7 @@ div[data-payment-gateway] h4 {
 }
 
 .pending-verification-container .icon-container {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .pending-verification-container h2 {
@@ -5085,7 +5085,7 @@ div[data-payment-gateway] h4 {
 }
 
 .pending-verification-container p {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-verification-container .terms-conditions-container ol {
@@ -5101,12 +5101,12 @@ div[data-payment-gateway] h4 {
 }
 
 .referral-verification-container [data-is-contact-verified="false"] .profile-link {
-    background: linear-gradient(to bottom, #FFD700 0%, #be0085 100%);
+    background: linear-gradient(to bottom, #FF4500 0%, #be0085 100%);
     color: #fff
 }
 
 .referral-verification-container [data-is-contact-verified="false"] .profile-link:hover {
-    background: linear-gradient(to bottom, #be0085 0%, #FFD700 100%)
+    background: linear-gradient(to bottom, #be0085 0%, #FF4500 100%)
 }
 
 .verify-whatsapp-popup {
@@ -5120,19 +5120,19 @@ div[data-payment-gateway] h4 {
 
 .popular-game-title-container .container-title span {
     color: #fff;
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .popular-game-title-container .container-title span:after {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .popular-game-title-container .container-content {
-    border: 1px solid #FFD700
+    border: 1px solid #FF4500
 }
 
 .popular-game-title-container .container-content .game-list .game-item .game-name {
-    color: #FFD700
+    color: #FF4500
 }
 
 .popular-game-title-container .container-content .game-list::-webkit-scrollbar-thumb {
@@ -5152,7 +5152,7 @@ div[data-payment-gateway] h4 {
 
 .deposit-summary-container .deposit-summary-header .summary-transfer-amount,
 .withdrawal-summary-container .withdrawal-summary-header .summary-transfer-amount {
-    color: #FFD700
+    color: #FF4500
 }
 
 .deposit-summary-container .deposit-summary-content,
@@ -5214,12 +5214,12 @@ div[data-payment-gateway] h4 {
 
 .popover {
     background-color: #0a1849;
-    border-color: #FFD700;
+    border-color: #FF4500;
     color: #fff
 }
 
 .popover.top .arrow {
-    border-top-color: #FFD700
+    border-top-color: #FF4500
 }
 
 .popover.top .arrow:after {
@@ -5227,7 +5227,7 @@ div[data-payment-gateway] h4 {
 }
 
 [data-payment-gateway] .download-qr-button {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -5372,7 +5372,7 @@ div[data-payment-gateway] h4 {
 }
 
 .otp-popup .otp-popup-content .resend-button {
-    color: #FFD700
+    color: #FF4500
 }
 
 .bonus-selection-popup .bonus-selection-popup-content {
@@ -5427,7 +5427,7 @@ div[data-payment-gateway] h4 {
 }
 
 .notification-popup-body .notification-list .notification-item[data-seen="false"] .notification-header .notification-title {
-    color: #FFD700
+    color: #FF4500
 }
 
 .notification-list .notification-item,
@@ -5442,7 +5442,7 @@ div[data-payment-gateway] h4 {
 }
 
 .notification-list .notification-item .notification-header .notification-label {
-    background: #FFD700
+    background: #FF4500
 }
 
 .notification-list .notification-item .notification-title-container .notification-title-content h3 {
@@ -5458,12 +5458,12 @@ div[data-payment-gateway] h4 {
 }
 
 .unread-announcements-popup {
-    border-color: #FFD700;
+    border-color: #FF4500;
     color: #fff
 }
 
 .unread-announcements-popup:before {
-    border-bottom-color: #FFD700
+    border-bottom-color: #FF4500
 }
 
 .notification-popup-body .notification-list .notification-item {
@@ -5485,12 +5485,12 @@ div[data-payment-gateway] h4 {
 }
 
 .notification-popup-body .notification-footer {
-    background-color: #FFD700;
-    background-image: linear-gradient(to bottom, #FFD700 0%, #be0085 100%)
+    background-color: #FF4500;
+    background-image: linear-gradient(to bottom, #FF4500 0%, #be0085 100%)
 }
 
 .home-progressive-jackpot {
-    background-image: linear-gradient(#01013e, #FFD700, #01013e)
+    background-image: linear-gradient(#01013e, #FF4500, #01013e)
 }
 
 .home-progressive-jackpot .outer-container {
@@ -5498,15 +5498,15 @@ div[data-payment-gateway] h4 {
 }
 
 .home-progressive-jackpot .inner-container {
-    background-image: linear-gradient(#FFD700, #020228)
+    background-image: linear-gradient(#FF4500, #020228)
 }
 
 .home-progressive-jackpot .border-container {
-    border-color: #fe00b1
+    border-color: #FF4500
 }
 
 .home-progressive-jackpot .jackpot-container {
-    background-image: linear-gradient(#FFD700, #000021)
+    background-image: linear-gradient(#FF4500, #000021)
 }
 
 .home-progressive-jackpot .jackpot-border-container {
@@ -5514,7 +5514,7 @@ div[data-payment-gateway] h4 {
 }
 
 .home-progressive-jackpot .jackpot-currency {
-    color: #fe00b1
+    color: #FF4500
 }
 
 .standard-form-container.loyalty-benefit-form-container {
@@ -5549,8 +5549,8 @@ div[data-payment-gateway] h4 {
 }
 
 .loyalty-level-remarks-container {
-    background: #FFD70033;
-    border-color: #FFD700
+    background: #FF4500 33;
+    border-color: #FF4500
 }
 
 .loyalty-level-remarks-container span {
@@ -5581,11 +5581,11 @@ div[data-payment-gateway] h4 {
 }
 
 .loyalty-reward-container .category-title::before {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .loyalty-reward-container .loyalty-reward-button {
-    background-image: linear-gradient(to bottom, #FFD700, #FFD700);
+    background-image: linear-gradient(to bottom, #FF4500, #FF4500);
     color: #fff
 }
 
@@ -5594,7 +5594,7 @@ div[data-payment-gateway] h4 {
 }
 
 .loyalty-reward-container .tab-filter input:checked+.tab {
-    background-color: #FFD700
+    background-color: #FF4500
 }
 
 .loyalty-reward-container .flash-sale-container::-webkit-scrollbar-thumb,
@@ -5621,15 +5621,15 @@ div[data-payment-gateway] h4 {
 }
 
 .forgot-password-modal .modal-header hr {
-    background: -webkit-gradient(linear, 0 0, 100% 0, from(transparent), to(transparent), color-stop(50%, #FFD700))
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(transparent), to(transparent), color-stop(50%, #FF4500))
 }
 
 .forgot-password-modal hr {
-    border-top-color: #FFD700
+    border-top-color: #FF4500
 }
 
 .whitelisted-domains-link {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
@@ -5638,7 +5638,7 @@ div[data-payment-gateway] h4 {
 }
 
 .standard-remark-notification .remark-notification-content span {
-    color: #FFD700
+    color: #FF4500
 }
 
 .referral-contact-verification p {
@@ -5671,36 +5671,36 @@ div[data-payment-gateway] h4 {
 }
 
 .set-as-default-button {
-    color: #FFD700;
+    color: #FF4500;
     background: none;
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .notification-list .notification-item .notification-play-button {
-    background: #FFD700;
+    background: #FF4500;
     color: #fff
 }
 
 .claim-item .claim-title .free-spin-note {
-    color: #FFD700
+    color: #FF4500
 }
 
 .floating-action-button .floating-action-button-item {
-    background: linear-gradient(0deg, #c7038c 0%, #FFD700 100%);
-    border-color: #ff43c6;
-    box-shadow: 0 4px 24px 0 #FFD70080
+    background: linear-gradient(0deg, #000000 0%, #FF4500 100%);
+    border-color: #FF4500;
+    box-shadow: 0 4px 24px 0 #FF4500 80
 }
 
 .bonus-selection-container .bonus-action .cancel-bonus-button {
-    border: 1px solid #FFD700;
-    color: #FFD700
+    border: 1px solid #FF4500;
+    color: #FF4500
 }
 
 .bonus-selection-container,
 .bonus-selection-list .bonus-selection-card.selected {
     background: #ffe3fb;
-    border-color: #FFD700;
-    color: #FFD700
+    border-color: #FF4500;
+    color: #FF4500
 }
 
 .bonus-selection-container .bonus-action>img {
@@ -5781,8 +5781,8 @@ div[data-payment-gateway] h4 {
 }
 
 .simple-modal .btn-secondary {
-    border: 1px solid #FFD700;
-    color: #FFD700
+    border: 1px solid #FF4500;
+    color: #FF4500
 }
 
 .payment-account-list .payment-account-item:hover {
@@ -5805,7 +5805,7 @@ div[data-payment-gateway] h4 {
 }
 
 .standard-outline-button {
-    border-color: #FFD700
+    border-color: #FF4500
 }
 
 .standard-remarks-container .standard-remarks-content-container p {
@@ -5813,7 +5813,7 @@ div[data-payment-gateway] h4 {
 }
 
 .standard-remarks-container .standard-remarks-content-container p span {
-    color: #FFD700
+    color: #FF4500
 }
 
 .contact-verification-popup .contact-verification-section input {
